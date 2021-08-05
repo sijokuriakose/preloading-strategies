@@ -1,6 +1,8 @@
 # Preloading
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5 to test preloading strategies in Angular.
+
+Please refer `app-routing.module.ts` to see the various preloading strategies used.
 
 ## Development server
 

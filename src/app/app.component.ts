@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'preloading';
+  opened: boolean;
+  events: string[] = [];
+
 }
