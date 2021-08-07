@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Please refer `app-routing.module.ts` to see the various preloading strategies used.
 
+Please refer `core/services` folder for sample custom preloading strategies.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
